@@ -1,0 +1,72 @@
+html{
+    font-family:sHelvetica Neue;
+    height: 100%;
+    
+}
+body{
+    height: 100%;
+}
+img{
+width: 100px;    
+}
+h1{
+    color:black;
+    font-size:24px
+    ;line-height:.8
+}
+h2{
+    color:black;
+    font-size:22px;
+    line-height:22px;font
+
+}
+.bg{
+  
+    background-color:rgb(29, 161, 242);
+}
+.leftSection{
+    height: 100%;
+    padding-top: 210px; 
+    color:white;
+    background-color:rgb(29, 161, 242);
+
+}
+.paragraph{
+    padding-left: 75px;
+    margin-top: 60px;
+    font-family: Tahoma,Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 16px;
+    font-weight: bold;
+}
+
+.bg{
+    background-color:rgb(29, 161, 242);
+}
+.rightsection{
+    padding-top: 180px;
+    padding-left: 100px;
+}
+.button1{
+    width: 60px;
+    border-radius: 12px;
+    background-color: white;
+    border-color:rgb(29, 161, 242);
+    margin-left: 100px;
+}
+.button2{
+    border-radius: 12px;
+    background-color: rgb(29, 161, 242);
+    border-color:rgb(29, 161, 242);
+    color: white;
+    width:350px;
+}
+.button3{
+    border-radius: 12px;
+    background-color: white;
+    border-color:rgb(29, 161, 242);
+    width:350px;
+}
+.acolor{
+    color: white;
+}
