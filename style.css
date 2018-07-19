@@ -69,6 +69,29 @@ h2{
     border-color:rgb(29, 161, 242);
     width:350px;
 }
+.button4{
+    border-radius: 79px;
+    background-color: #4AB3F4;
+    border-color: #4AB3F4;
+    margin-right:30px;
+}
+.search1{
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-right: 20px;
+}
+
+.twittericonimg{
+    padding-right: 296px;
+    color: #4AB3F4;
+}
+.profileicon{
+    font-size: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-color: #4AB3F4;
+    color: #ccd6dd;
+}
 .acolor{
     color: white;
 }
@@ -79,4 +102,7 @@ h2{
 }
 .loginbtn{
     margin-left: -90px;
+}
+.navbarh{
+    padding-left: 120px;
 }
